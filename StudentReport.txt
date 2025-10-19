@@ -1,0 +1,6 @@
+=== STUDENT REPORT (Sorted by Average Marks) ===
+Name       Sub1     Sub2     Sub3     Total    Average    Grade
+--------------------------------------------------------------
+Keshav     78       99       98       275      91.67      A    
+Vansh      80       90       88       258      86.00      B    
+Ishu       30       69       99       198      66.00      C    
